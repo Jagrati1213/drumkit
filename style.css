@@ -42,3 +42,11 @@ section{
 .click{
     transform: scale(1.1);
 }
+@media only screen and (max-width:551px) {
+    section{
+        height: fit-content;
+    }
+    .dhrum_container{
+        width: fit-content;
+    }
+}
