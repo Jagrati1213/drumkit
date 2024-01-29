@@ -1,6 +1,6 @@
 # JavaScript DrumKit
 This simple web application, called the JavaScript DrumKit, allows users to play virtual drums using their keyboard. It's built using HTML, CSS, and JavaScript, with the addition of Tailwind CSS for styling.
- [DrumKit](https://Jagrati1213.github.io/drumkit
+ [DrumKit](https://Jagrati1213.github.io/drumkit)
 
 ## Features :
 
